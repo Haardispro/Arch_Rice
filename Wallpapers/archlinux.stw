@@ -1,0 +1,31 @@
+# Simple Timed Wallpaper
+# Alexander F. Rødseth <xyproto@archlinux.org>
+# 2020-10-22
+#
+# Activate with `settimed archlinux` from the `wallutils` package.
+#
+stw: 1.0
+name: archlinux
+format: /usr/share/backgrounds/archlinux/%s
+@07:00: archbtw.png
+@08:00: archwave.png
+@09:00: archwaveinv.png
+@10:00: awesome.png
+@11:00: conference.png
+@11:30: geolanes.png
+@12:00: geowaves.png
+@12:30: gritty.png
+@13:00: landscape.jpg
+@14:00: lone.jpg
+@14:30: mountain.jpg
+@15:30: reflected.jpg
+@16:00: simple.png
+@18:00: small.png
+@19:00: snow.jpg
+@20:00: split.png
+@20:30: sunset.jpg
+@21:30: svalbard.jpg
+@22:00: wave.png
+@22:30: wild.png
+@23:00: wirefeather.png
+@23:30: wireparts.png
