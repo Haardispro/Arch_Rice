@@ -25,3 +25,9 @@ Install the dependencies before cloning the repository
 ```bash
 git clone https://github.com/Haardispro/Arch_Rice
 ```
+
+![](/home/haard/Desktop/More_Projects/Arch_Rice_Config/screenshots/1.png)
+
+![](/home/haard/Desktop/More_Projects/Arch_Rice_Config/screenshots/2.png)
+
+![](/home/haard/Desktop/More_Projects/Arch_Rice_Config/screenshots/3.png)
