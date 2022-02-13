@@ -27,3 +27,5 @@ git clone https://github.com/Haardispro/Arch_Rice
 ```
 
 ![image info](screenshots/1.png)
+![image info](screenshots/2.png)
+![image info](screenshots/3.png)
