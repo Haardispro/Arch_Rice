@@ -18,9 +18,13 @@
 
 - [nitrogen](https://wiki.archlinux.org/title/Nitrogen)
 
+- [scrot](https://github.com/resurrecting-open-source-projects/scrot)
+
 ### <u>Installation:</u>
 
 Install the dependencies before cloning the repository
+
+Clone this repo in your .config/ folder
 
 ```bash
 git clone https://github.com/Haardispro/Arch_Rice
